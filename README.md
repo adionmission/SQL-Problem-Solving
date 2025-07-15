@@ -2,6 +2,7 @@
 
 ![Hackerrank](https://img.shields.io/badge/Hackerrank-05192D?style=for-the-badge&logo=hackerrank&logoColor=03E860)
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![GitHub License](https://img.shields.io/github/license/adionmission/SQL-Problem-Solving)
 ![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/SQL-Problem-Solving)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/SQL-Problem-Solving)
